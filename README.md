@@ -1,2 +1,1 @@
-# Sobre
-Programador // Desenvolvedor
+
